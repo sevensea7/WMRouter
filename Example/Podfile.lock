@@ -1,0 +1,16 @@
+PODS:
+  - WMRouter (0.1.0)
+
+DEPENDENCIES:
+  - WMRouter (from `../`)
+
+EXTERNAL SOURCES:
+  WMRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WMRouter: a066cad6409d24eea6082ef08ba8e6c6dc2e6649
+
+PODFILE CHECKSUM: ea8d8378910d6b8d468a61e2f86b0fd97a31acf2
+
+COCOAPODS: 1.11.3

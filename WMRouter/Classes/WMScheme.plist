@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>doctor.myweimai.com/Setting</key>
+	<dict>
+		<key>note</key>
+		<string>设置页面</string>
+		<key>class</key>
+		<string>WMSettingViewController</string>
+		<key>param</key>
+		<string></string>
+	</dict>
+	<key>doctor.myweimai.com/MyWallet</key>
+	<dict>
+		<key>note</key>
+		<string>我的钱包</string>
+		<key>class</key>
+		<string>WMMyWalletViewController</string>
+		<key>param</key>
+		<string></string>
+	</dict>
+	<key>doctor.myweimai.com/Helper</key>
+	<dict>
+		<key>note</key>
+		<string>帮助与反馈</string>
+		<key>class</key>
+		<string>WMBaseWKWebController</string>
+		<key>param</key>
+		<string></string>
+	</dict>
+	<key>doctor.myweimai.com/ShareQR</key>
+	<dict>
+		<key>note</key>
+		<string>分享二维码</string>
+		<key>class</key>
+		<string>WMQRViewController</string>
+		<key>param</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

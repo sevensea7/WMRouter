@@ -1,0 +1,6 @@
+framework module Pods_WMRouter_Example {
+  umbrella header "Pods-WMRouter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
